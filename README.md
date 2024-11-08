@@ -1,5 +1,3 @@
-Bien sûr ! Voici un modèle de **README** pour ta page GitHub. Ce fichier mettra en avant ton profil en tant que **buildeur Minecraft** et **apprenti développeur**.
-
 ---
 
 # 👋 Bienvenue sur mon GitHub ! [Nory_Ninin]
@@ -24,6 +22,7 @@ Je travaille actuellement sur un projet de reproduction de la ville de Bruxelles
 - 🎨 Une immersion totale avec des détails réalistes.
 - 💡 Un serveur Discord et un site pour connecter la communauté.
 
+Je travaille actuellement sur un projet de reproduction de la ville de Paris dans Minecraft. Pour mon serveur Rôle Play
 ### Orion RP
 - 🏙️ Des reproductions fidèles de bâtiments iconiques de Paris.
 - 🎨 Une immersion totale avec des détails réalistes.
